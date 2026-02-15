@@ -168,16 +168,14 @@ Possible anomaly causes:
 ![heatmap.png](outputs/heatmap.png)
 **Highlights the intensity and evolution of digital payment adoption.**
 
-### 🌐 Interactive Forecast
+### 🌐 Interactive Digital Payment Forecast
 
-GitHub cannot display interactive charts.
+![Forecast Preview](outputs/forecast.png)
 
-To view:
+Explore the live interactive dashboard with zoom and hover insights:
 
-- Download the file below
-- Open in your browser  
+**🔗 https://rgtrigger.github.io/payvision-ai/outputs/interactive_forecast.html**
 
-**[Download Interactive Forecast](outputs/interactive_forecast.html)**
 
 ---
 
