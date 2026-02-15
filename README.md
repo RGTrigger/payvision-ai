@@ -53,6 +53,7 @@ This architecture ensures scalability, maintainability, and production readiness
 digital_payment_forecast/
 │
 ├── analytics/
+│   ├── __init__.py
 │   ├── metrics.py
 │   ├── export.py
 │   ├── policy.py
@@ -63,6 +64,7 @@ digital_payment_forecast/
 │   └── interactive_chart.py
 │
 ├── cli/
+│   ├── __init__.py
 │   ├── forecast.py
 │   ├── crossover.py
 │   ├── simulate.py
@@ -74,11 +76,15 @@ digital_payment_forecast/
 │   └── cash_data.csv
 │
 ├── models/
-│   ├── total_lstm_model.keras
-│   └── scaler.npy
+│   ├── __init__.py
+│   ├── adoption_model.py
+│   ├── lstm_total.py
+│   └── train_total_lstm.py
 │
 ├── utils/
-│   └── plotting.py
+│   ├── __init__.py
+│   ├── plotting.py
+│   └── preprocessing.py
 │
 ├── outputs/
 │   ├── forecast.png
@@ -164,9 +170,14 @@ Possible anomaly causes:
 
 ### 🌐 Interactive Forecast
 
-Interactive chart with zoom & hover:
-[interactive_forecast.html](outputs/interactive_forecast.html)
-**outputs/interactive_forecast.html**
+GitHub cannot display interactive charts.
+
+To view:
+
+- Download the file below
+- Open in your browser  
+
+**[Download Interactive Forecast](outputs/interactive_forecast.html)**
 
 ---
 
