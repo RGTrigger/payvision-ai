@@ -170,8 +170,6 @@ Possible anomaly causes:
 
 ### 🌐 Interactive Digital Payment Forecast
 
-![Forecast Preview](outputs/forecast.png)
-
 Explore the live interactive dashboard with zoom and hover insights:
 
 **🔗 https://rgtrigger.github.io/payvision-ai/outputs/interactive_forecast.html**
