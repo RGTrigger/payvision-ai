@@ -1,6 +1,6 @@
 # PayVision AI
 
-## Digital Payment Intelligence Platform
+## Financial Forecasting System
 
 ## 📌 Project Overview
 
